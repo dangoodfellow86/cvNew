@@ -1,0 +1,33 @@
+.Card{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0 0;
+    padding: 10px;
+    background-color: rgba(0,0, 0,1);
+    width: 450px;
+    height: 450px;
+    box-shadow: 0 3px 50px #ccc;
+    font-family: 'Merriweather',
+    serif;
+}
+
+.Card p,
+.Card h4,
+.Card h1{
+    margin: 10px;
+    align-items: center;
+}
+
+.Card a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    
+}
+.Card h1,
+.Card h4 {
+    font-family: 'Montserrat',
+    sans-serif;
+}
+

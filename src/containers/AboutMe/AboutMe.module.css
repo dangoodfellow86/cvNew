@@ -1,0 +1,66 @@
+.AboutMeMain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.AboutMe{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.AboutMe_Title{
+    display: flex;
+    flex-direction: row;
+    justify-items: flex-start;
+    width: 80%;
+    height: 20%;
+    margin: 0 10%;
+    padding: 50px;
+    background-color: black;
+    box-shadow: 0 3px 50px #ccc;
+    font-family: 'Merriweather',
+    serif;
+
+}
+.AboutMe_Title img{
+    
+    display: flex;
+    justify-content: flex-start;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 10px solid white;
+    position: relative;
+}
+.AboutMe_Info h2,
+.AboutMe_Title_wording h1{
+    margin: 20px;
+    font-family: 'Sacramento',
+    cursive;
+    font-size: 3rem;
+}
+.AboutMe_Title_wording{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    align-content: center;
+    
+}
+.AboutMe_Info{
+    
+    display: flex;
+    flex-direction: column;
+    justify-items: flex-start;
+    width: 80%;
+    height: 20%;
+    margin: 1% 10%;
+    padding: 50px;
+    background-color: black;
+    box-shadow: 0 3px 50px #ccc;
+    font-family: 'Merriweather',
+    serif;
+}
