@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dangoodfellow86/cvNew/static/css/main.ff64462f.chunk.css",
+    "main.js": "/dangoodfellow86/cvNew/static/js/main.06b858cb.chunk.js",
+    "main.js.map": "/dangoodfellow86/cvNew/static/js/main.06b858cb.chunk.js.map",
+    "runtime-main.js": "/dangoodfellow86/cvNew/static/js/runtime-main.a5e5f170.js",
+    "runtime-main.js.map": "/dangoodfellow86/cvNew/static/js/runtime-main.a5e5f170.js.map",
+    "static/js/2.f318f824.chunk.js": "/dangoodfellow86/cvNew/static/js/2.f318f824.chunk.js",
+    "static/js/2.f318f824.chunk.js.map": "/dangoodfellow86/cvNew/static/js/2.f318f824.chunk.js.map",
+    "index.html": "/dangoodfellow86/cvNew/index.html",
+    "precache-manifest.aaa9f8eb5831a730e9b414eb1112fb74.js": "/dangoodfellow86/cvNew/precache-manifest.aaa9f8eb5831a730e9b414eb1112fb74.js",
+    "service-worker.js": "/dangoodfellow86/cvNew/service-worker.js",
+    "static/css/main.ff64462f.chunk.css.map": "/dangoodfellow86/cvNew/static/css/main.ff64462f.chunk.css.map",
+    "static/js/2.f318f824.chunk.js.LICENSE.txt": "/dangoodfellow86/cvNew/static/js/2.f318f824.chunk.js.LICENSE.txt",
+    "static/media/Dan.jpeg": "/dangoodfellow86/cvNew/static/media/Dan.34e05fe1.jpeg",
+    "static/media/background.jpg": "/dangoodfellow86/cvNew/static/media/background.a6f594ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e5f170.js",
+    "static/js/2.f318f824.chunk.js",
+    "static/css/main.ff64462f.chunk.css",
+    "static/js/main.06b858cb.chunk.js"
+  ]
+}
